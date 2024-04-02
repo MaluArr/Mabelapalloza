@@ -1,5 +1,5 @@
 # Mabelapalloza (figurative name of our festival)
-  We plan to develop a communication platform aimed at establishing an effective channel between the management of a music event, specifically a festival, and its customers, the attending public. The primary purpose will be the transmission of information pertinent to the event and the facilitation of interaction between participants.
+  We intend to develop a real-time communication application using socket multicast in Java with the aid of the UDP transport protocol of communication that aims to establish an effective channel between the management of a musical event, specifically a festival, and its customers, the audience. The main objective will be the transmission of information pertinent to the event and the facilitation of interaction between participants.
 
 ## Target Audience and Definition of Clients and Servers: 
   Our target audience consists of companies contracting the application, taking on the role of servers, and the general public, represented as customers.
